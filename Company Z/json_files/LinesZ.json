@@ -1,0 +1,26 @@
+[
+    {
+        "lineNoZ": "48",
+        "poNoZ": "27",
+        "partNoZ": "1",
+        "priceOrderedZ": "120.00",
+        "qtyZ": "1",
+        "companyName": "Comapny X"
+    },
+    {
+        "lineNoZ": "49",
+        "poNoZ": "27",
+        "partNoZ": "6",
+        "priceOrderedZ": "1000.00",
+        "qtyZ": "2",
+        "companyName": "Comapny X"
+    },
+    {
+        "lineNoZ": "50",
+        "poNoZ": "27",
+        "partNoZ": "6",
+        "priceOrderedZ": "100.00",
+        "qtyZ": "4",
+        "companyName": "Comapny Y"
+    }
+]

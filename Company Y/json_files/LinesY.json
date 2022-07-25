@@ -1,0 +1,72 @@
+[
+    {
+        "lineNoY": "8",
+        "poNoY": "4",
+        "partNoY": "2",
+        "priceOrderedY": "240.00",
+        "qtyY": "2"
+    },
+    {
+        "lineNoY": "9",
+        "poNoY": "4",
+        "partNoY": "4",
+        "priceOrderedY": "160.00",
+        "qtyY": "2"
+    },
+    {
+        "lineNoY": "10",
+        "poNoY": "4",
+        "partNoY": "6",
+        "priceOrderedY": "100.00",
+        "qtyY": "1"
+    },
+    {
+        "lineNoY": "11",
+        "poNoY": "5",
+        "partNoY": "1",
+        "priceOrderedY": "4.00",
+        "qtyY": "2"
+    },
+    {
+        "lineNoY": "12",
+        "poNoY": "5",
+        "partNoY": "3",
+        "priceOrderedY": "70.00",
+        "qtyY": "1"
+    },
+    {
+        "lineNoY": "13",
+        "poNoY": "5",
+        "partNoY": "5",
+        "priceOrderedY": "25.00",
+        "qtyY": "1"
+    },
+    {
+        "lineNoY": "14",
+        "poNoY": "5",
+        "partNoY": "6",
+        "priceOrderedY": "100.00",
+        "qtyY": "1"
+    },
+    {
+        "lineNoY": "15",
+        "poNoY": "6",
+        "partNoY": "4",
+        "priceOrderedY": "240.00",
+        "qtyY": "3"
+    },
+    {
+        "lineNoY": "16",
+        "poNoY": "6",
+        "partNoY": "5",
+        "priceOrderedY": "75.00",
+        "qtyY": "3"
+    },
+    {
+        "lineNoY": "17",
+        "poNoY": "6",
+        "partNoY": "6",
+        "priceOrderedY": "200.00",
+        "qtyY": "2"
+    }
+]
